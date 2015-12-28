@@ -1,0 +1,25 @@
+div { 
+	width: 50%; 
+	height: 700px;
+	background-color: black;
+	background: -webkit-linear-gradient(left,blue, #e0a 20%, green 50%, gray);
+	margin: auto;
+	box-shadow: -20px 0px 5px red, -22px 0px 5px green;
+}
+
+h1 { 
+	text-shadow: 2px 2px 2px red, 2px 15px 2px green;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
